@@ -1,8 +1,8 @@
 ---
-title: RecallShot
+title: Glimpsed
 ---
 
-# RecallShot
+# Glimpsed
 
 Privacy-first screenshot search for iPhone.
 
