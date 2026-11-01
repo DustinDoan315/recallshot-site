@@ -5,7 +5,7 @@ permalink: /privacy/
 
 # Glimpsed Privacy Policy
 
-Effective date: October 31, 2026
+Effective date: November 1, 2026
 
 Glimpsed is made by Doan Khanh Dong. It helps you search and organize screenshots on your iPhone. It works without an account.
 
@@ -21,7 +21,7 @@ Your original images stay in Apple Photos. Glimpsed's local index is stored on y
 
 ## Purchases
 
-Glimpsed uses RevenueCat to process and restore Glimpsed Pro purchases made through Apple. For this, RevenueCat and Apple process purchase information, such as the products you bought and when, along with a randomly generated identifier that Glimpsed does not link to your name or email address. See [RevenueCat's privacy policy](https://www.revenuecat.com/privacy/) and [Apple's privacy policy](https://www.apple.com/legal/privacy/).
+Glimpsed uses RevenueCat to process and restore Glimpsed Pro purchases made through Apple, and to give us purchase reports such as subscription charts. For this, RevenueCat and Apple process purchase information, such as the products you bought and when, along with a randomly generated identifier that Glimpsed does not link to your name or email address. See [RevenueCat's privacy policy](https://www.revenuecat.com/privacy/) and [Apple's privacy policy](https://www.apple.com/legal/privacy/).
 
 Screenshots and their text are not sent to RevenueCat.
 
